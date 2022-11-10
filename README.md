@@ -1,56 +1,38 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+### Portfolio
 
-> Description the project.
+-Portfolio setup for mobile and Desktop Version
+-This projects demonstrates the behaviour of a website page and how it responds to different screen sizes 
+-Contains two sections; projects list and about myself.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- html & css
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+You need to have git and a text editor like vscode
 
 ### Setup
+-on your terminal clone the repository of this project[repo;https://github.com/collins-kiprotich/mukama-collins.git] using command git clone (repo) 
+-From your terminal switch from main branch to works-projects-branch
+-Then open the  index2.html file using your preferred text editor and run it on your browser.
 
-### Install
-
-### Usage
-
-### Run tests
 
 ### Deployment
 
+## Author
 
+👤 **Collins kiprotich**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: (https://github.com/collins-kiprotich)
+- Twitter:(https://twitter.com/Jcee01188383)
+- LinkedIn: (https://linkedin.com/in/collins-kiprotich-152b52246/)
 
 ## 🤝 Contributing
 
@@ -64,9 +46,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse staff
+- coding partners at microverse community
 
 ## 📝 License
 
